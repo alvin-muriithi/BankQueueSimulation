@@ -34,3 +34,7 @@ Open BankSim.java and click the Run (▶) button at the top right of the editor.
 Once the GUI opens, adjust the simulation parameters (Number of customers, arrival/service time bounds, random seed, and animation speed).
 Click "Run Simulation" to watch the visual queue and server status in real-time.
 Review the Live Statistics and the Final Statistics panel at the bottom for detailed queueing metrics.
+
+A sample UI is below:
+<img width="1357" height="986" alt="image" src="https://github.com/user-attachments/assets/021965f5-0784-4f54-ad6c-f076fda1c6f2" />
+
