@@ -26,4 +26,6 @@ To run this project, you need:
    java Bank Sim
 
 ### Option 2: Using VSCode (run command)
-1. On the top right of the window click the play button
+Open the BankSimulation folder in VSCode.
+Ensure the Extension Pack for Java is installed.
+Open BankSim.java and click the Run (▶) button at the top right of the editor.
