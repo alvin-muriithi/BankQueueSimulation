@@ -29,3 +29,8 @@ To run this project, you need:
 Open the BankSimulation folder in VSCode.
 Ensure the Extension Pack for Java is installed.
 Open BankSim.java and click the Run (▶) button at the top right of the editor.
+
+## 🎮 How to Use the Application
+Once the GUI opens, adjust the simulation parameters (Number of customers, arrival/service time bounds, random seed, and animation speed).
+Click "Run Simulation" to watch the visual queue and server status in real-time.
+Review the Live Statistics and the Final Statistics panel at the bottom for detailed queueing metrics.
