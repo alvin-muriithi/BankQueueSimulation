@@ -6,7 +6,7 @@ A visual, discrete-event simulation of a single-server bank queue system built u
 | Name | Registration Number | Role |
 |------|---------------------|------|
 | Muriithi Alvin | 166326 | Developer / Lead |
-| Makau Nathan Maganga | Student No: | Researcher |
+| Makau Nathan Maganga | 150460 | Researcher |
 
 
 
